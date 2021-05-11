@@ -1,0 +1,251 @@
+,Ranking,Title,Genre,Year,Runtime_min,Rating,Directors,Stars,Votes,Gross
+0,1,Les Évadés,Drama,1994,142.0,9.3,Frank Darabont,"['Tim Robbins', ' Morgan Freeman', ' Bob Gunton', ' William Sadler']",2384498.0,28341469.0
+1,2,Le parrain,"['Crime', ' Drama']",1972,175.0,9.2,['Francis Ford Coppola'],"['Marlon Brando', ' Al Pacino', ' James Caan', ' Diane Keaton']",1652566.0,134966411.0
+2,3,The Dark Knight : Le Chevalier noir,"['Action', ' Crime', ' Drama']",2008,152.0,9.0,['Christopher Nolan'],"['Christian Bale', ' Heath Ledger', ' Aaron Eckhart', ' Michael Caine']",2347962.0,534858444.0
+3,4,"Le parrain, 2ème partie","['Crime', ' Drama']",1974,202.0,9.0,['Francis Ford Coppola'],"['Al Pacino', ' Robert De Niro', ' Robert Duvall', ' Diane Keaton']",1149888.0,57300000.0
+4,5,12 Hommes en colère,"['Crime', ' Drama']",1957,96.0,9.0,['Sidney Lumet'],"['Henry Fonda', ' Lee J. Cobb', ' Martin Balsam', ' John Fiedler']",704057.0,4360000.0
+5,6,Le Seigneur des anneaux : Le Retour du roi,"['Action', ' Adventure', ' Drama']",2003,201.0,8.9,['Peter Jackson'],"['Elijah Wood', ' Viggo Mortensen', ' Ian McKellen', ' Orlando Bloom']",1668051.0,377845905.0
+6,7,Pulp Fiction,"['Crime', ' Drama']",1994,154.0,8.9,['Quentin Tarantino'],"['John Travolta', ' Uma Thurman', ' Samuel L. Jackson', ' Bruce Willis']",1857194.0,107928762.0
+7,8,La liste de Schindler,"['Biography', ' Drama', ' History']",1993,195.0,8.9,['Steven Spielberg'],"['Liam Neeson', ' Ralph Fiennes', ' Ben Kingsley', ' Caroline Goodall']",1232952.0,96898818.0
+8,9,Inception,"['Action', ' Adventure', ' Sci-Fi']",2010,148.0,8.8,['Christopher Nolan'],"['Leonardo DiCaprio', ' Joseph Gordon-Levitt', ' Elliot Page', ' Ken Watanabe']",2106219.0,292576195.0
+9,10,Fight Club,['Drama'],1999,139.0,8.8,['David Fincher'],"['Brad Pitt', ' Edward Norton', ' Meat Loaf', ' Zach Grenier']",1886437.0,37030102.0
+10,11,Le Seigneur des anneaux : La Communauté de l'anneau,"['Action', ' Adventure', ' Drama']",2001,178.0,8.8,['Peter Jackson'],"['Elijah Wood', ' Ian McKellen', ' Orlando Bloom', ' Sean Bean']",1688541.0,315544750.0
+11,12,Forrest Gump,"['Drama', ' Romance']",1994,142.0,8.8,['Robert Zemeckis'],"['Tom Hanks', ' Robin Wright', ' Gary Sinise', ' Sally Field']",1844811.0,330252182.0
+12,13,"Le Bon, la brute, le truand",['Western'],1966,161.0,8.8,['Sergio Leone'],"['Clint Eastwood', ' Eli Wallach', ' Lee Van Cleef', ' Aldo Giuffrè']",698626.0,6100000.0
+13,14,Le Seigneur des anneaux : Les Deux Tours,"['Action', ' Adventure', ' Drama']",2002,179.0,8.7,['Peter Jackson'],"['Elijah Wood', ' Ian McKellen', ' Viggo Mortensen', ' Orlando Bloom']",1508418.0,342551365.0
+14,15,Matrix,"['Action', ' Sci-Fi']",1999,136.0,8.7,"['Lana Wachowski', 'Lilly Wachowski']","['Keanu Reeves', ' Laurence Fishburne', ' Carrie-Anne Moss', ' Hugo Weaving']",1705257.0,171479930.0
+15,16,Les affranchis,"['Biography', ' Crime', ' Drama']",1990,146.0,8.7,['Martin Scorsese'],"['Robert De Niro', ' Ray Liotta', ' Joe Pesci', ' Lorraine Bracco']",1039505.0,46836394.0
+16,17,L'Empire contre-attaque,"['Action', ' Adventure', ' Fantasy']",1980,124.0,8.7,['Irvin Kershner'],"['Mark Hamill', ' Harrison Ford', ' Carrie Fisher', ' Billy Dee Williams']",1175846.0,290475067.0
+17,18,Vol au-dessus d'un nid de coucou,['Drama'],1975,133.0,8.7,['Milos Forman'],"['Jack Nicholson', ' Louise Fletcher', ' Michael Berryman', ' Peter Brocco']",931196.0,112000000.0
+18,19,Parasite,"['Comedy', ' Drama', ' Thriller']",2019,132.0,8.6,['Bong Joon Ho'],"['Kang-ho Song', ' Sun-kyun Lee', ' Yeo-jeong Cho', ' Woo-sik Choi']",599081.0,53367844.0
+19,20,Interstellar,"['Adventure', ' Drama', ' Sci-Fi']",2014,169.0,8.6,['Christopher Nolan'],"['Matthew McConaughey', ' Anne Hathaway', ' Jessica Chastain', ' Mackenzie Foy']",1550809.0,188020017.0
+20,21,La Cité de Dieu,"['Crime', ' Drama']",2002,130.0,8.6,"['Fernando Meirelles', 'Kátia Lund']","['Alexandre Rodrigues', ' Leandro Firmino', ' Matheus Nachtergaele', ' Phellipe Haagensen']",707952.0,7563397.0
+21,22,Le voyage de Chihiro,"['Animation', ' Adventure', ' Family']",2001,125.0,8.6,['Hayao Miyazaki'],"['Daveigh Chase', ' Suzanne Pleshette', ' Miyu Irino', ' Rumi Hiiragi']",667757.0,10055859.0
+22,23,Il faut sauver le soldat Ryan,"['Drama', ' War']",1998,169.0,8.6,['Steven Spielberg'],"['Tom Hanks', ' Matt Damon', ' Tom Sizemore', ' Edward Burns']",1258494.0,216540909.0
+23,24,La ligne verte,"['Crime', ' Drama', ' Fantasy']",1999,189.0,8.6,['Frank Darabont'],"['Tom Hanks', ' Michael Clarke Duncan', ' David Morse', ' Bonnie Hunt']",1169794.0,136801374.0
+24,25,La vie est belle,"['Comedy', ' Drama', ' Romance']",1997,116.0,8.6,['Roberto Benigni'],"['Roberto Benigni', ' Nicoletta Braschi', ' Giorgio Cantarini', ' Giustino Durano']",634922.0,57598247.0
+25,26,Seven,"['Crime', ' Drama', ' Mystery']",1995,127.0,8.6,['David Fincher'],"['Morgan Freeman', ' Brad Pitt', ' Kevin Spacey', ' Andrew Kevin Walker']",1472264.0,100125643.0
+26,27,Le Silence des agneaux,"['Crime', ' Drama', ' Thriller']",1991,118.0,8.6,['Jonathan Demme'],"['Jodie Foster', ' Anthony Hopkins', ' Lawrence A. Bonney', ' Kasi Lemmons']",1294317.0,130742922.0
+27,28,La guerre des étoiles,"['Action', ' Adventure', ' Fantasy']",1977,121.0,8.6,['George Lucas'],"['Mark Hamill', ' Harrison Ford', ' Carrie Fisher', ' Alec Guinness']",1247900.0,322740140.0
+28,29,Harakiri,"['Action', ' Drama', ' Mystery']",1962,133.0,8.6,['Masaki Kobayashi'],"['Tatsuya Nakadai', ' Akira Ishihama', ' Shima Iwashita', ' Tetsurô Tanba']",44618.0,
+29,30,Les 7 Samouraïs,"['Action', ' Adventure', ' Drama']",1954,207.0,8.6,['Akira Kurosawa'],"['Toshirô Mifune', ' Takashi Shimura', ' Keiko Tsushima', ' Yukiko Shimazaki']",320604.0,269061.0
+30,31,La vie est belle,"['Drama', ' Family', ' Fantasy']",1946,130.0,8.6,['Frank Capra'],"['James Stewart', ' Donna Reed', ' Lionel Barrymore', ' Thomas Mitchell']",411582.0,
+31,32,Hamilton,"['Biography', ' Drama', ' History']",2020,160.0,8.5,['Thomas Kail'],"['Lin-Manuel Miranda', ' Phillipa Soo', ' Leslie Odom Jr.', ' Renée Elise Goldsberry']",63379.0,
+32,33,Whiplash,"['Drama', ' Music']",2014,106.0,8.5,['Damien Chazelle'],"['Miles Teller', ' J.K. Simmons', ' Melissa Benoist', ' Paul Reiser']",735443.0,13092000.0
+33,34,Intouchables,"['Biography', ' Comedy', ' Drama']",2011,112.0,8.5,"['Olivier Nakache', 'Éric Toledano']","['François Cluzet', ' Omar Sy', ' Anne Le Ny', ' Audrey Fleurot']",775995.0,13182281.0
+34,35,Le Prestige,"['Drama', ' Mystery', ' Sci-Fi']",2006,130.0,8.5,['Christopher Nolan'],"['Christian Bale', ' Hugh Jackman', ' Scarlett Johansson', ' Michael Caine']",1211646.0,53089891.0
+35,36,Les infiltrés,"['Crime', ' Drama', ' Thriller']",2006,151.0,8.5,['Martin Scorsese'],"['Leonardo DiCaprio', ' Matt Damon', ' Jack Nicholson', ' Mark Wahlberg']",1209505.0,132384315.0
+36,37,Le pianiste,"['Biography', ' Drama', ' Music']",2002,150.0,8.5,['Roman Polanski'],"['Adrien Brody', ' Thomas Kretschmann', ' Frank Finlay', ' Emilia Fox']",745934.0,32572577.0
+37,38,Gladiator,"['Action', ' Adventure', ' Drama']",2000,155.0,8.5,['Ridley Scott'],"['Russell Crowe', ' Joaquin Phoenix', ' Connie Nielsen', ' Oliver Reed']",1362369.0,187705427.0
+38,39,American History X,['Drama'],1998,119.0,8.5,['Tony Kaye'],"['Edward Norton', ' Edward Furlong', ' ""Beverly DAngelo""', ' Jennifer Lien']",1047377.0,6719864.0
+39,40,Usual Suspects,"['Crime', ' Mystery', ' Thriller']",1995,106.0,8.5,['Bryan Singer'],"['Kevin Spacey', ' Gabriel Byrne', ' Chazz Palminteri', ' Stephen Baldwin']",1005067.0,23341568.0
+40,41,Léon,"['Action', ' Crime', ' Drama']",1994,110.0,8.5,['Luc Besson'],"['Jean Reno', ' Gary Oldman', ' Natalie Portman', ' Danny Aiello']",1053158.0,19501238.0
+41,42,The Lion King,"['Animation', ' Adventure', ' Drama']",1994,88.0,8.5,"['Roger Allers', 'Rob Minkoff']","['Matthew Broderick', ' Jeremy Irons', ' James Earl Jones', ' Whoopi Goldberg']",958633.0,422783777.0
+42,43,Terminator 2 : Le Jugement dernier,"['Action', ' Sci-Fi']",1991,137.0,8.5,['James Cameron'],"['Arnold Schwarzenegger', ' Linda Hamilton', ' Edward Furlong', ' Robert Patrick']",1008389.0,204843350.0
+43,44,Cinéma Paradiso,"['Drama', ' Romance']",1988,155.0,8.5,['Giuseppe Tornatore'],"['Philippe Noiret', ' Enzo Cannavale', ' Antonella Attili', ' Isa Danieli']",235626.0,11990401.0
+44,45,Le tombeau des lucioles,"['Animation', ' Drama', ' War']",1988,89.0,8.5,['Isao Takahata'],"['Tsutomu Tatsumi', ' Ayano Shiraishi', ' Akemi Yamaguchi', ' Yoshiko Shinohara']",241859.0,
+45,46,Retour vers le futur,"['Adventure', ' Comedy', ' Sci-Fi']",1985,116.0,8.5,['Robert Zemeckis'],"['Michael J. Fox', ' Christopher Lloyd', ' Lea Thompson', ' Crispin Glover']",1077988.0,210609762.0
+46,47,Il était une fois dans l'Ouest,['Western'],1968,165.0,8.5,['Sergio Leone'],"['Henry Fonda', ' Charles Bronson', ' Claudia Cardinale', ' Jason Robards']",307176.0,5321508.0
+47,48,Psychose,"['Horror', ' Mystery', ' Thriller']",1960,109.0,8.5,['Alfred Hitchcock'],"['Anthony Perkins', ' Janet Leigh', ' Vera Miles', ' John Gavin']",613918.0,32000000.0
+48,49,Casablanca,"['Drama', ' Romance', ' War']",1942,102.0,8.5,['Michael Curtiz'],"['Humphrey Bogart', ' Ingrid Bergman', ' Paul Henreid', ' Claude Rains']",529354.0,1024560.0
+49,50,Les temps modernes,"['Comedy', ' Drama', ' Family']",1936,87.0,8.5,['Charles Chaplin'],"['Charles Chaplin', ' Paulette Goddard', ' Henry Bergman', ' Tiny Sandford']",222054.0,163245.0
+50,51,Les lumières de la ville,"['Comedy', ' Drama', ' Romance']",1931,87.0,8.5,['Charles Chaplin'],"['Charles Chaplin', ' Virginia Cherrill', ' Florence Lee', ' Harry Myers']",170709.0,19181.0
+51,52,Capharnaüm,['Drama'],2018,126.0,8.4,['Nadine Labaki'],"['Zain Al Rafeea', ' Yordanos Shiferaw', ' Boluwatife Treasure Bankole', ' Kawsar Al Haddad']",67952.0,1661096.0
+52,53,Joker,"['Crime', ' Drama', ' Thriller']",2019,122.0,8.4,['Todd Phillips'],"['Joaquin Phoenix', ' Robert De Niro', ' Zazie Beetz', ' Frances Conroy']",989721.0,335451311.0
+53,54,Your Name.,"['Animation', ' Drama', ' Fantasy']",2016,106.0,8.4,['Makoto Shinkai'],"['Ryûnosuke Kamiki', ' Mone Kamishiraishi', ' Ryô Narita', ' Aoi Yûki']",206556.0,5017246.0
+54,55,Dangal,"['Action', ' Biography', ' Drama']",2016,161.0,8.4,['Nitesh Tiwari'],"['Aamir Khan', ' Sakshi Tanwar', ' Fatima Sana Shaikh', ' Sanya Malhotra']",161610.0,12391761.0
+55,56,Spider-Man: New Generation,"['Animation', ' Action', ' Adventure']",2018,117.0,8.4,"['Bob Persichetti', 'Peter Ramsey', 'Rodney Rothman']","['Shameik Moore', ' Jake Johnson', ' Hailee Steinfeld', ' Mahershala Ali']",396160.0,190241310.0
+56,57,Avengers: Endgame,"['Action', ' Adventure', ' Drama']",2019,181.0,8.4,"['Anthony Russo', 'Joe Russo']","['Robert Downey Jr.', ' Chris Evans', ' Mark Ruffalo', ' Chris Hemsworth']",865101.0,858373000.0
+57,58,Avengers: Infinity War,"['Action', ' Adventure', ' Sci-Fi']",2018,149.0,8.4,"['Anthony Russo', 'Joe Russo']","['Robert Downey Jr.', ' Chris Hemsworth', ' Mark Ruffalo', ' Chris Evans']",871231.0,678815482.0
+58,59,Coco,"['Animation', ' Adventure', ' Family']",2017,105.0,8.4,"['Lee Unkrich', 'Adrian Molina']","['Anthony Gonzalez', ' Gael García Bernal', ' Benjamin Bratt', ' Alanna Ubach']",402394.0,209726015.0
+59,60,Django Unchained,"['Drama', ' Western']",2012,165.0,8.4,['Quentin Tarantino'],"['Jamie Foxx', ' Christoph Waltz', ' Leonardo DiCaprio', ' Kerry Washington']",1384382.0,162805434.0
+60,61,The Dark Knight Rises,"['Action', ' Adventure']",2012,164.0,8.4,['Christopher Nolan'],"['Christian Bale', ' Tom Hardy', ' Anne Hathaway', ' Gary Oldman']",1540637.0,448139099.0
+61,62,3 Idiots,"['Comedy', ' Drama']",2009,170.0,8.4,['Rajkumar Hirani'],"['Aamir Khan', ' Madhavan', ' Mona Singh', ' Sharman Joshi']",351884.0,6532908.0
+62,63,Taare Zameen Par,"['Drama', ' Family']",2007,165.0,8.4,"['Aamir Khan', 'Amole Gupte']","['Darsheel Safary', ' Aamir Khan', ' Tisca Chopra', ' Vipin Sharma']",173353.0,1223869.0
+63,64,WALL·E,"['Animation', ' Adventure', ' Family']",2008,98.0,8.4,['Andrew Stanton'],"['Ben Burtt', ' Elissa Knight', ' Jeff Garlin', ' Fred Willard']",1016142.0,223808164.0
+64,65,La Vie des autres,"['Drama', ' Mystery', ' Thriller']",2006,137.0,8.4,['Florian Henckel von Donnersmarck'],"['Ulrich Mühe', ' Martina Gedeck', ' Sebastian Koch', ' Ulrich Tukur']",364481.0,11286112.0
+65,66,Old Boy,"['Action', ' Drama', ' Mystery']",2003,120.0,8.4,['Chan-wook Park'],"['Choi Min-sik', ' Yoo Ji-Tae', ' Kang Hye-jeong', ' Kim Byeong-Ok']",525142.0,707481.0
+66,67,Memento,"['Mystery', ' Thriller']",2000,113.0,8.4,['Christopher Nolan'],"['Guy Pearce', ' Carrie-Anne Moss', ' Joe Pantoliano', ' Mark Boone Junior']",1141883.0,25544867.0
+67,68,Princesse Mononoké,"['Animation', ' Action', ' Adventure']",1997,134.0,8.4,['Hayao Miyazaki'],"['Yôji Matsuda', ' Yuriko Ishida', ' Yûko Tanaka', ' Billy Crudup']",351255.0,2375308.0
+68,69,Il était une fois en Amérique,"['Crime', ' Drama']",1984,229.0,8.4,['Sergio Leone'],"['Robert De Niro', ' James Woods', ' Elizabeth McGovern', ' Treat Williams']",317275.0,5321508.0
+69,70,Les Aventuriers de l'arche perdue,"['Action', ' Adventure']",1981,115.0,8.4,['Steven Spielberg'],"['Harrison Ford', ' Karen Allen', ' Paul Freeman', ' John Rhys-Davies']",895242.0,248159971.0
+70,71,Shining,"['Drama', ' Horror']",1980,146.0,8.4,['Stanley Kubrick'],"['Jack Nicholson', ' Shelley Duvall', ' Danny Lloyd', ' Scatman Crothers']",914521.0,44017374.0
+71,72,Apocalypse Now,"['Drama', ' Mystery', ' War']",1979,147.0,8.4,['Francis Ford Coppola'],"['Martin Sheen', ' Marlon Brando', ' Robert Duvall', ' Frederic Forrest']",615849.0,83471511.0
+72,73,Alien - Le 8ème passager,"['Horror', ' Sci-Fi']",1979,117.0,8.4,['Ridley Scott'],"['Sigourney Weaver', ' Tom Skerritt', ' John Hurt', ' Veronica Cartwright']",800658.0,78900000.0
+73,74,Entre le ciel et l'enfer,"['Crime', ' Drama', ' Mystery']",1963,143.0,8.4,['Akira Kurosawa'],"['Toshirô Mifune', ' Yutaka Sada', ' Tatsuya Nakadai', ' Kyôko Kagawa']",36338.0,136801374.0
+74,75,Dr. Folamour ou : Comment j'ai appris à ne plus m'en faire et à aimer la bombe !,['Comedy'],1964,95.0,8.4,['Stanley Kubrick'],"['Peter Sellers', ' George C. Scott', ' Sterling Hayden', ' Keenan Wynn']",456404.0,275902.0
+75,76,Témoin à charge,"['Crime', ' Drama', ' Mystery']",1957,116.0,8.4,['Billy Wilder'],"['Tyrone Power', ' Marlene Dietrich', ' Charles Laughton', ' Elsa Lanchester']",111500.0,8175000.0
+76,77,Les sentiers de la gloire,"['Drama', ' War']",1957,88.0,8.4,['Stanley Kubrick'],"['Kirk Douglas', ' Ralph Meeker', ' Adolphe Menjou', ' George Macready']",181479.0,130742922.0
+77,78,Fenêtre sur cour,"['Mystery', ' Thriller']",1954,112.0,8.4,['Alfred Hitchcock'],"['James Stewart', ' Grace Kelly', ' Wendell Corey', ' Thelma Ritter']",450801.0,36764313.0
+78,79,Boulevard du Crépuscule,"['Drama', ' Film-Noir']",1950,110.0,8.4,['Billy Wilder'],"['William Holden', ' Gloria Swanson', ' Erich von Stroheim', ' Nancy Olson']",204882.0,
+79,80,Le Dictateur,"['Comedy', ' Drama', ' War']",1940,125.0,8.4,['Charles Chaplin'],"['Charles Chaplin', ' Paulette Goddard', ' Jack Oakie', ' Reginald Gardiner']",206382.0,288475.0
+80,81,1917,"['Drama', ' Thriller', ' War']",2019,119.0,8.3,['Sam Mendes'],"['Dean-Charles Chapman', ' George MacKay', ' Daniel Mays', ' Colin Firth']",456213.0,159227644.0
+81,82,La chasse,['Drama'],2012,115.0,8.3,['Thomas Vinterberg'],"['Mads Mikkelsen', ' Thomas Bo Larsen', ' Annika Wedderkopp', ' Lasse Fogelstrøm']",290759.0,687185.0
+82,83,Une séparation,['Drama'],2011,123.0,8.3,['Asghar Farhadi'],"['Payman Maadi', ' Leila Hatami', ' Sareh Bayat', ' Shahab Hosseini']",224439.0,7098492.0
+83,84,Incendies,"['Drama', ' Mystery', ' War']",2010,131.0,8.3,['Denis Villeneuve'],"['Lubna Azabal', ' Mélissa Désormeaux-Poulin', ' Maxim Gaudette', ' Mustafa Kamel']",154637.0,6857096.0
+84,85,The Father,['Drama'],2020,97.0,8.3,['Florian Zeller'],"['Anthony Hopkins', ' Olivia Colman', ' Mark Gatiss', ' Olivia Williams']",49184.0,53089891.0
+85,86,Mon père et mon fils,"['Drama', ' Family']",2005,112.0,8.3,['Çagan Irmak'],"['Eser Sariyar', ' Çetin Tekindor', ' Fikret Kuskan', ' Hümeyra']",80653.0,132384315.0
+86,87,Inglourious Basterds,"['Adventure', ' Drama', ' War']",2009,153.0,8.3,['Quentin Tarantino'],"['Brad Pitt', ' Diane Kruger', ' Eli Roth', ' Mélanie Laurent']",1293254.0,120540719.0
+87,88,Eternal Sunshine of the Spotless Mind,"['Drama', ' Romance', ' Sci-Fi']",2004,108.0,8.3,['Michel Gondry'],"['Jim Carrey', ' Kate Winslet', ' Tom Wilkinson', ' Gerry Robert Byrne']",924756.0,34400301.0
+88,89,Le Fabuleux Destin d'Amélie Poulain,"['Comedy', ' Romance']",2001,122.0,8.3,['Jean-Pierre Jeunet'],"['Audrey Tautou', ' Mathieu Kassovitz', ' Rufus', ' Lorella Cravotta']",712262.0,33225499.0
+89,90,Snatch - Tu braques ou tu raques,"['Comedy', ' Crime']",2000,104.0,8.3,['Guy Ritchie'],"['Jason Statham', ' Brad Pitt', ' Benicio Del Toro', ' Dennis Farina']",792518.0,30328156.0
+90,91,Requiem for a Dream,['Drama'],2000,102.0,8.3,['Darren Aronofsky'],"['Ellen Burstyn', ' Jared Leto', ' Jennifer Connelly', ' Marlon Wayans']",778289.0,3635482.0
+91,92,American Beauty,['Drama'],1999,122.0,8.3,['Sam Mendes'],"['Kevin Spacey', ' Annette Bening', ' Thora Birch', ' Wes Bentley']",1082672.0,130096601.0
+92,93,Will Hunting,"['Drama', ' Romance']",1997,126.0,8.3,['Gus Van Sant'],"['Robin Williams', ' Matt Damon', ' Ben Affleck', ' Stellan Skarsgård']",877014.0,138433435.0
+93,94,Les enfants du ciel,"['Drama', ' Family', ' Sport']",1997,89.0,8.3,['Majid Majidi'],"['Mohammad Amir Naji', ' Amir Farrokh Hashemian', ' Bahare Seddiqi', ' Nafise Jafar-Mohammadi']",67134.0,933933.0
+94,95,Toy Story,"['Animation', ' Adventure', ' Comedy']",1995,81.0,8.3,['John Lasseter'],"['Tom Hanks', ' Tim Allen', ' Don Rickles', ' Jim Varney']",902073.0,191796233.0
+95,96,Braveheart,"['Biography', ' Drama', ' History']",1995,178.0,8.3,['Mel Gibson'],"['Mel Gibson', ' Sophie Marceau', ' Patrick McGoohan', ' Angus Macfadyen']",970962.0,75600000.0
+96,97,Reservoir Dogs,"['Crime', ' Drama', ' Thriller']",1992,99.0,8.3,['Quentin Tarantino'],"['Harvey Keitel', ' Tim Roth', ' Michael Madsen', ' Chris Penn']",933153.0,2832029.0
+97,98,Full Metal Jacket,"['Drama', ' War']",1987,116.0,8.3,['Stanley Kubrick'],"['Matthew Modine', ' R. Lee Ermey', ' ""Vincent DOnofrio""', ' Adam Baldwin']",684654.0,46357676.0
+98,99,Requiem pour un massacre - Va et regarde,"['Drama', ' Thriller', ' War']",1985,142.0,8.3,['Elem Klimov'],"['Aleksey Kravchenko', ' Olga Mironova', ' Liubomiras Laucevicius', ' Vladas Bagdonas']",62166.0,1024560.0
+99,100,Aliens : Le Retour,"['Action', ' Adventure', ' Sci-Fi']",1986,137.0,8.3,['James Cameron'],"['Sigourney Weaver', ' Michael Biehn', ' Carrie Henn', ' Paul Reiser']",661329.0,85160248.0
+100,101,Amadeus,"['Biography', ' Drama', ' History']",1984,160.0,8.3,['Milos Forman'],"['F. Murray Abraham', ' Tom Hulce', ' Elizabeth Berridge', ' Roy Dotrice']",374123.0,51973029.0
+101,102,Scarface,"['Crime', ' Drama']",1983,170.0,8.3,['Brian De Palma'],"['Al Pacino', ' Michelle Pfeiffer', ' Steven Bauer', ' Mary Elizabeth Mastrantonio']",755497.0,45598982.0
+102,103,Le Retour du Jedi,"['Action', ' Adventure', ' Fantasy']",1983,131.0,8.3,['Richard Marquand'],"['Mark Hamill', ' Harrison Ford', ' Carrie Fisher', ' Billy Dee Williams']",963728.0,309125409.0
+103,104,Le Bateau,"['Adventure', ' Drama', ' Thriller']",1981,149.0,8.3,['Wolfgang Petersen'],"['Jürgen Prochnow', ' Herbert Grönemeyer', ' Klaus Wennemann', ' Hubertus Bengsch']",235089.0,11487676.0
+104,105,L'Arnaque,"['Comedy', ' Crime', ' Drama']",1973,129.0,8.3,['George Roy Hill'],"['Paul Newman', ' Robert Redford', ' Robert Shaw', ' Charles Durning']",244814.0,159600000.0
+105,106,Orange mécanique,"['Crime', ' Drama', ' Sci-Fi']",1971,136.0,8.3,['Stanley Kubrick'],"['Malcolm McDowell', ' Patrick Magee', ' Michael Bates', ' Warren Clarke']",768192.0,6207725.0
+106,107,Anand,"['Drama', ' Musical']",1971,122.0,8.3,['Hrishikesh Mukherjee'],"['Rajesh Khanna', ' Amitabh Bachchan', ' Sumita Sanyal', ' Ramesh Deo']",31412.0,858373000.0
+107,108,2001 : L'Odyssée de l'espace,"['Adventure', ' Sci-Fi']",1968,149.0,8.3,['Stanley Kubrick'],"['Keir Dullea', ' Gary Lockwood', ' William Sylvester', ' Daniel Richter']",612912.0,56954992.0
+108,109,Lawrence d'Arabie,"['Adventure', ' Biography', ' Drama']",1962,228.0,8.3,['David Lean'],"['""Peter OToole""', ' Alec Guinness', ' Anthony Quinn', ' Jack Hawkins']",272044.0,44824144.0
+109,110,La garçonnière,"['Comedy', ' Drama', ' Romance']",1960,125.0,8.3,['Billy Wilder'],"['Jack Lemmon', ' Shirley MacLaine', ' Fred MacMurray', ' Ray Walston']",167267.0,18600000.0
+110,111,La mort aux trousses,"['Adventure', ' Mystery', ' Thriller']",1959,136.0,8.3,['Alfred Hitchcock'],"['Cary Grant', ' Eva Marie Saint', ' James Mason', ' Jessie Royce Landis']",303238.0,13275000.0
+111,112,Sueurs froides,"['Mystery', ' Romance', ' Thriller']",1958,128.0,8.3,['Alfred Hitchcock'],"['James Stewart', ' Kim Novak', ' Barbara Bel Geddes', ' Tom Helmore']",370374.0,3200000.0
+112,113,Chantons sous la pluie,"['Comedy', ' Musical', ' Romance']",1952,103.0,8.3,"['Stanley Donen', 'Gene Kelly']","['Gene Kelly', ' ""Donald OConnor""', ' Debbie Reynolds', ' Jean Hagen']",222545.0,8819028.0
+113,114,Vivre,['Drama'],1952,143.0,8.3,['Akira Kurosawa'],"['Takashi Shimura', ' Nobuo Kaneko', ' ""Shinichi Himori""', ' Haruo Tanaka']",70311.0,55240.0
+114,115,Voleur de bicyclette,['Drama'],1948,89.0,8.3,['Vittorio De Sica'],"['Lamberto Maggiorani', ' Enzo Staiola', ' Lianella Carell', ' Elena Altieri']",149531.0,332930.0
+115,116,Assurance sur la mort,"['Crime', ' Drama', ' Film-Noir']",1944,107.0,8.3,['Billy Wilder'],"['Fred MacMurray', ' Barbara Stanwyck', ' Edward G. Robinson', ' Byron Barr']",145894.0,5720000.0
+116,117,Citizen Kane,"['Drama', ' Mystery']",1941,119.0,8.3,['Orson Welles'],"['Orson Welles', ' Joseph Cotten', ' Dorothy Comingore', ' Agnes Moorehead']",411226.0,1585634.0
+117,118,M le maudit,"['Crime', ' Mystery', ' Thriller']",1931,118.0,8.3,['Fritz Lang'],"['Peter Lorre', ' Ellen Widmann', ' Inge Landgut', ' Otto Wernicke']",145987.0,28877.0
+118,119,Metropolis,"['Drama', ' Sci-Fi']",1927,153.0,8.3,['Fritz Lang'],"['Brigitte Helm', ' Alfred Abel', ' Gustav Fröhlich', ' Rudolf Klein-Rogge']",162459.0,1236166.0
+119,120,Le Kid,"['Comedy', ' Drama', ' Family']",1921,68.0,8.3,['Charles Chaplin'],"['Charles Chaplin', ' Edna Purviance', ' Jackie Coogan', ' Carl Miller']",115930.0,5450000.0
+120,121,Andhadhun,"['Crime', ' Drama', ' Music']",2018,139.0,8.2,['Sriram Raghavan'],"['Ayushmann Khurrana', ' Tabu', ' Radhika Apte', ' Anil Dhawan']",75351.0,1373943.0
+121,122,Green Book: Sur les routes du Sud,"['Biography', ' Comedy', ' Drama']",2018,130.0,8.2,['Peter Farrelly'],"['Viggo Mortensen', ' Mahershala Ali', ' Linda Cardellini', ' Sebastian Maniscalco']",400809.0,85080171.0
+122,123,La légende de Klaus,"['Animation', ' Adventure', ' Comedy']",2019,96.0,8.2,"['Sergio Pablos', 'Carlos Martínez López']","['Jason Schwartzman', ' J.K. Simmons', ' Rashida Jones', ' Will Sasso']",111496.0,78900000.0
+123,124,Drishyam,"['Crime', ' Drama', ' Mystery']",2015,163.0,8.2,['Nishikant Kamat'],"['Ajay Devgn', ' Shriya Saran', ' Tabu', ' Rajat Kapoor']",73006.0,739478.0
+124,125,Mandarines,"['Drama', ' War']",2013,87.0,8.2,['Zaza Urushadze'],"['Lembit Ulfsak', ' Elmo Nüganen', ' Giorgi Nakashidze', ' Misha Meskhi']",42273.0,144501.0
+125,126,Gangs of Wasseypur,"['Action', ' Comedy', ' Crime']",2012,321.0,8.2,['Anurag Kashyap'],"['Manoj Bajpayee', ' Richa Chadha', ' Nawazuddin Siddiqui', ' Tigmanshu Dhulia']",84334.0,8175000.0
+126,127,Dans ses yeux,"['Drama', ' Mystery', ' Romance']",2009,129.0,8.2,['Juan José Campanella'],"['Ricardo Darín', ' Soledad Villamil', ' Pablo Rago', ' Carla Quevedo']",196473.0,6391436.0
+127,128,Warrior,"['Action', ' Drama', ' Sport']",2011,140.0,8.2,"[""Gavin O'Connor""]","['Tom Hardy', ' Nick Nolte', ' Joel Edgerton', ' Jennifer Morrison']",441443.0,13657115.0
+128,129,Shutter Island,"['Mystery', ' Thriller']",2010,138.0,8.2,['Martin Scorsese'],"['Leonardo DiCaprio', ' Emily Mortimer', ' Mark Ruffalo', ' Ben Kingsley']",1155254.0,128012934.0
+129,130,Là-haut,"['Animation', ' Adventure', ' Comedy']",2009,96.0,8.2,"['Pete Docter', 'Bob Peterson']","['Edward Asner', ' Jordan Nagai', ' John Ratzenberger', ' Christopher Plummer']",950664.0,293004164.0
+130,131,7. Kogustaki Mucize,['Drama'],2019,132.0,8.2,['Mehmet Ada Öztekin'],"['Aras Bulut Iynemli', ' Nisa Sofiya Aksongur', ' Deniz Baysal', ' Celile Toyon Uysal']",38484.0,159227644.0
+131,132,Le loup de Wall Street,"['Biography', ' Crime', ' Drama']",2013,180.0,8.2,['Martin Scorsese'],"['Leonardo DiCaprio', ' Jonah Hill', ' Margot Robbie', ' Matthew McConaughey']",1218396.0,116900694.0
+132,133,There Will Be Blood,['Drama'],2007,158.0,8.2,['Paul Thomas Anderson'],"['Daniel Day-Lewis', ' Paul Dano', ' Ciarán Hinds', ' Martin Stringer']",527606.0,40222514.0
+133,134,Le labyrinthe de Pan,"['Drama', ' Fantasy', ' War']",2006,118.0,8.2,['Guillermo del Toro'],"['Ivana Baquero', ' Ariadna Gil', ' Sergi López', ' Maribel Verdú']",626370.0,37634615.0
+134,135,Toy Story 3,"['Animation', ' Adventure', ' Comedy']",2010,103.0,8.2,['Lee Unkrich'],"['Tom Hanks', ' Tim Allen', ' Joan Cusack', ' Ned Beatty']",767904.0,415004880.0
+135,136,V pour vendetta,"['Action', ' Drama', ' Sci-Fi']",2005,132.0,8.2,['James McTeigue'],"['Hugo Weaving', ' Natalie Portman', ' Rupert Graves', ' Stephen Rea']",1046090.0,70511035.0
+136,137,Batman Begins,"['Action', ' Adventure']",2005,140.0,8.2,['Christopher Nolan'],"['Christian Bale', ' Michael Caine', ' Ken Watanabe', ' Liam Neeson']",1328876.0,206852432.0
+137,138,La chute,"['Biography', ' Drama', ' History']",2004,156.0,8.2,['Oliver Hirschbiegel'],"['Bruno Ganz', ' Alexandra Maria Lara', ' Ulrich Matthes', ' Juliane Köhler']",335453.0,5509040.0
+138,139,Le château ambulant,"['Animation', ' Adventure', ' Family']",2004,119.0,8.2,['Hayao Miyazaki'],"['Chieko Baishô', ' Takuya Kimura', ' Tatsuya Gashûin', ' Akihiro Miwa']",343437.0,4711096.0
+139,140,Un homme d'exception,"['Biography', ' Drama']",2001,135.0,8.2,['Ron Howard'],"['Russell Crowe', ' Ed Harris', ' Jennifer Connelly', ' Christopher Plummer']",862225.0,170742341.0
+140,141,"Arnaques, crimes et botanique","['Action', ' Comedy', ' Crime']",1998,107.0,8.2,['Guy Ritchie'],"['Jason Flemyng', ' Dexter Fletcher', ' Nick Moran', ' Jason Statham']",542747.0,3897569.0
+141,142,L.A. Confidential,"['Crime', ' Drama', ' Mystery']",1997,138.0,8.2,['Curtis Hanson'],"['Kevin Spacey', ' Russell Crowe', ' Guy Pearce', ' Kim Basinger']",539296.0,64616940.0
+142,143,Eskiya le bandit,"['Crime', ' Drama', ' Thriller']",1996,121.0,8.2,['Yavuz Turgul'],"['Sener Sen', ' Ugur Yücel', ' Sermin Hürmeriç', ' Yesim Salkim']",65478.0,138433435.0
+143,144,Heat,"['Crime', ' Drama', ' Thriller']",1995,170.0,8.2,['Michael Mann'],"['Al Pacino', ' Robert De Niro', ' Val Kilmer', ' Jon Voight']",588168.0,67436818.0
+144,145,Casino,"['Crime', ' Drama']",1995,178.0,8.2,['Martin Scorsese'],"['Robert De Niro', ' Sharon Stone', ' Joe Pesci', ' James Woods']",474681.0,42438300.0
+145,146,Impitoyable,"['Drama', ' Western']",1992,130.0,8.2,['Clint Eastwood'],"['Clint Eastwood', ' Gene Hackman', ' Morgan Freeman', ' Richard Harris']",381442.0,101157447.0
+146,147,Indiana Jones et la dernière croisade,"['Action', ' Adventure']",1989,127.0,8.2,['Steven Spielberg'],"['Harrison Ford', ' Sean Connery', ' Alison Doody', ' Denholm Elliott']",700625.0,197171806.0
+147,148,Le temps des gitans,"['Comedy', ' Crime', ' Drama']",1988,142.0,8.2,['Emir Kusturica'],"['Davor Dujmovic', ' Bora Todorovic', ' Ljubica Adzovic', ' Husnija Hasimovic']",28038.0,280015.0
+148,149,Mon voisin Totoro,"['Animation', ' Family', ' Fantasy']",1988,86.0,8.2,['Hayao Miyazaki'],"['Hitoshi Takagi', ' Noriko Hidaka', ' Chika Sakamoto', ' Shigesato Itoi']",299070.0,1105564.0
+149,150,Piège de cristal,"['Action', ' Thriller']",1988,132.0,8.2,['John McTiernan'],"['Bruce Willis', ' Alan Rickman', ' Bonnie Bedelia', ' Reginald VelJohnson']",802739.0,83008852.0
+150,151,Ran,"['Action', ' Drama', ' War']",1985,162.0,8.2,['Akira Kurosawa'],"['Tatsuya Nakadai', ' Akira Terao', ' Jinpachi Nezu', ' Daisuke Ryû']",115012.0,4135750.0
+151,152,Raging Bull,"['Biography', ' Drama', ' Sport']",1980,129.0,8.2,['Martin Scorsese'],"['Robert De Niro', ' Cathy Moriarty', ' Joe Pesci', ' Frank Vincent']",326558.0,23383987.0
+152,153,Stalker,"['Drama', ' Sci-Fi']",1979,162.0,8.2,['Andrei Tarkovsky'],"['Alisa Freyndlikh', ' Aleksandr Kaydanovskiy', ' Anatoliy Solonitsyn', ' Nikolay Grinko']",119903.0,234723.0
+153,154,Sonate d'automne,"['Drama', ' Music']",1978,99.0,8.2,['Ingmar Bergman'],"['Ingrid Bergman', ' Liv Ullmann', ' Lena Nyman', ' Halvar Björk']",28562.0,11487676.0
+154,155,Taxi Driver,"['Crime', ' Drama']",1976,114.0,8.2,['Martin Scorsese'],"['Robert De Niro', ' Jodie Foster', ' Cybill Shepherd', ' Albert Brooks']",738761.0,28262574.0
+155,156,Monty Python : Sacré Graal !,"['Adventure', ' Comedy', ' Fantasy']",1975,91.0,8.2,"['Terry Gilliam', 'Terry Jones']","['Graham Chapman', ' John Cleese', ' Eric Idle', ' Terry Gilliam']",506562.0,1229197.0
+156,157,...et pour quelques dollars de plus,['Western'],1965,132.0,8.2,['Sergio Leone'],"['Clint Eastwood', ' Lee Van Cleef', ' Gian Maria Volontè', ' Mara Krupp']",236379.0,15000000.0
+157,158,La Grande Évasion,"['Adventure', ' Drama', ' History']",1963,172.0,8.2,['John Sturges'],"['Steve McQueen', ' James Garner', ' Richard Attenborough', ' Charles Bronson']",227907.0,12100000.0
+158,159,Du silence et des ombres...,"['Crime', ' Drama']",1962,129.0,8.2,['Robert Mulligan'],"['Gregory Peck', ' John Megna', ' Frank Overton', ' Rosemary Murphy']",297100.0,44824144.0
+159,160,Le garde du corps,"['Action', ' Drama', ' Thriller']",1961,110.0,8.2,['Akira Kurosawa'],"['Toshirô Mifune', ' Eijirô Tôno', ' Tatsuya Nakadai', ' Yôko Tsukasa']",113377.0,18600000.0
+160,161,Jugement à Nuremberg,"['Drama', ' War']",1961,179.0,8.2,['Stanley Kramer'],"['Spencer Tracy', ' Burt Lancaster', ' Richard Widmark', ' Marlene Dietrich']",70919.0,13275000.0
+161,162,Certains l'aiment chaud,"['Comedy', ' Music', ' Romance']",1959,121.0,8.2,['Billy Wilder'],"['Marilyn Monroe', ' Tony Curtis', ' Jack Lemmon', ' George Raft']",247503.0,25000000.0
+162,163,Les fraises sauvages,"['Drama', ' Romance']",1957,91.0,8.2,['Ingmar Bergman'],"['Victor Sjöström', ' Bibi Andersson', ' Ingrid Thulin', ' Gunnar Björnstrand']",98496.0,8819028.0
+163,164,Le septième sceau,"['Drama', ' Fantasy', ' History']",1957,96.0,8.2,['Ingmar Bergman'],"['Max von Sydow', ' Gunnar Björnstrand', ' Bengt Ekerot', ' Nils Poppe']",168547.0,55240.0
+164,165,Le crime était presque parfait,"['Crime', ' Thriller']",1954,105.0,8.2,['Alfred Hitchcock'],"['Ray Milland', ' Grace Kelly', ' Robert Cummings', ' John Williams']",161160.0,12562.0
+165,166,Voyage à Tokyo,['Drama'],1953,136.0,8.2,['Yasujirô Ozu'],"['Chishû Ryû', ' Chieko Higashiyama', ' Sô Yamamura', ' Setsuko Hara']",54761.0,5720000.0
+166,167,Rashomon,"['Crime', ' Drama', ' Mystery']",1950,88.0,8.2,['Akira Kurosawa'],"['Toshirô Mifune', ' Machiko Kyô', ' Masayuki Mori', ' Takashi Shimura']",155361.0,96568.0
+167,168,Ève...,['Drama'],1950,138.0,8.2,['Joseph L. Mankiewicz'],"['Bette Davis', ' Anne Baxter', ' George Sanders', ' Celeste Holm']",122362.0,10177.0
+168,169,Le Trésor de la Sierra Madre,"['Adventure', ' Drama', ' Western']",1948,126.0,8.2,['John Huston'],"['Humphrey Bogart', ' Walter Huston', ' Tim Holt', ' Bruce Bennett']",115957.0,5014000.0
+169,170,Jeux dangereux,"['Comedy', ' Romance', ' War']",1942,99.0,8.2,['Ernst Lubitsch'],"['Carole Lombard', ' Jack Benny', ' Robert Stack', ' Felix Bressart']",31326.0,5450000.0
+170,171,La ruée vers l'or,"['Adventure', ' Comedy', ' Drama']",1925,95.0,8.2,['Charles Chaplin'],"['Charles Chaplin', ' Mack Swain', ' Tom Murray', ' Henry Bergman']",102987.0,5450000.0
+171,172,Sherlock Junior,"['Action', ' Comedy', ' Romance']",1924,45.0,8.2,['Buster Keaton'],"['Buster Keaton', ' Kathryn McGuire', ' Joe Keaton', ' Erwin Connelly']",43434.0,977375.0
+172,173,Portrait de la jeune fille en feu,"['Drama', ' Romance']",2019,122.0,8.1,['Céline Sciamma'],"['Noémie Merlant', ' Adèle Haenel', ' Luàna Bajrami', ' Valeria Golino']",70123.0,3759854.0
+173,174,Silent Voice,"['Animation', ' Drama', ' Family']",2016,130.0,8.1,['Naoko Yamada'],"['Miyu Irino', ' Saori Hayami', ' Aoi Yûki', ' Kenshô Ono']",53141.0,739478.0
+174,175,3 Billboards: Les panneaux de la vengeance,"['Comedy', ' Crime', ' Drama']",2017,115.0,8.1,['Martin McDonagh'],"['Frances McDormand', ' Woody Harrelson', ' Sam Rockwell', ' Caleb Landry Jones']",447072.0,54513740.0
+175,176,Mademoiselle,"['Drama', ' Romance', ' Thriller']",2016,145.0,8.1,['Chan-wook Park'],"['Kim Min-hee', ' Jung-woo Ha', ' Cho Jin-woong', ' Moon So-ri']",119540.0,2006788.0
+176,177,Logan,"['Action', ' Drama', ' Sci-Fi']",2017,137.0,8.1,['James Mangold'],"['Hugh Jackman', ' Patrick Stewart', ' Dafne Keen', ' Boyd Holbrook']",662951.0,226277068.0
+177,178,Room,"['Drama', ' Thriller']",2015,118.0,8.1,['Lenny Abrahamson'],"['Brie Larson', ' Jacob Tremblay', ' Sean Bridgers', ' Wendy Crewson']",380290.0,14677674.0
+178,179,Les Nouveaux Sauvages,"['Comedy', ' Drama', ' Thriller']",2014,122.0,8.1,['Damián Szifron'],"['Darío Grandinetti', ' María Marull', ' Mónica Villa', ' Diego Starosta']",181326.0,3107072.0
+179,180,Soul,"['Animation', ' Adventure', ' Comedy']",2020,100.0,8.1,"['Pete Docter', 'Kemp Powers']","['Jamie Foxx', ' Tina Fey', ' Graham Norton', ' Rachel House']",232693.0,293004164.0
+180,181,The Grand Budapest hotel,"['Adventure', ' Comedy', ' Crime']",2014,99.0,8.1,['Wes Anderson'],"['Ralph Fiennes', ' F. Murray Abraham', ' Mathieu Amalric', ' Adrien Brody']",724010.0,59100318.0
+181,182,Gone Girl,"['Drama', ' Mystery', ' Thriller']",2014,149.0,8.1,['David Fincher'],"['Ben Affleck', ' Rosamund Pike', ' Neil Patrick Harris', ' Tyler Perry']",879250.0,167767189.0
+182,183,Tu ne tueras point,"['Biography', ' Drama', ' History']",2016,139.0,8.1,['Mel Gibson'],"['Andrew Garfield', ' Sam Worthington', ' Luke Bracey', ' Teresa Palmer']",448241.0,67209615.0
+183,184,Vice-versa,"['Animation', ' Adventure', ' Comedy']",2015,95.0,8.1,"['Pete Docter', 'Ronnie Del Carmen']","['Amy Poehler', ' Bill Hader', ' Lewis Black', ' Mindy Kaling']",630674.0,356461711.0
+184,185,12 Years a Slave,"['Biography', ' Drama', ' History']",2013,134.0,8.1,['Steve McQueen'],"['Chiwetel Ejiofor', ' Michael Kenneth Williams', ' Michael Fassbender', ' Brad Pitt']",650815.0,56671993.0
+185,186,Rush,"['Action', ' Biography', ' Drama']",2013,123.0,8.1,['Ron Howard'],"['Daniel Brühl', ' Chris Hemsworth', ' Olivia Wilde', ' Alexandra Maria Lara']",440751.0,26947624.0
+186,187,Le Mans '66,"['Action', ' Biography', ' Drama']",2019,152.0,8.1,['James Mangold'],"['Matt Damon', ' Christian Bale', ' Jon Bernthal', ' Caitriona Balfe']",310144.0,117624028.0
+187,188,Spotlight,"['Biography', ' Crime', ' Drama']",2015,129.0,8.1,['Tom McCarthy'],"['Mark Ruffalo', ' Michael Keaton', ' Rachel McAdams', ' Liev Schreiber']",429322.0,45055776.0
+188,189,Prisoners,"['Crime', ' Drama', ' Mystery']",2013,153.0,8.1,['Denis Villeneuve'],"['Hugh Jackman', ' Jake Gyllenhaal', ' Viola Davis', ' Melissa Leo']",614671.0,61002302.0
+189,190,Mad Max: Fury Road,"['Action', ' Adventure', ' Sci-Fi']",2015,120.0,8.1,['George Miller'],"['Tom Hardy', ' Charlize Theron', ' Nicholas Hoult', ' Zoë Kravitz']",898964.0,154058340.0
+190,191,Gran Torino,['Drama'],2008,116.0,8.1,['Clint Eastwood'],"['Clint Eastwood', ' Bee Vang', ' Christopher Carley', ' Ahney Her']",728638.0,148095302.0
+191,192,Harry Potter et les Reliques de la Mort 2ème partie,"['Adventure', ' Drama', ' Fantasy']",2011,130.0,8.1,['David Yates'],"['Daniel Radcliffe', ' Emma Watson', ' Rupert Grint', ' Michael Gambon']",779521.0,381011219.0
+192,193,Hatchi,"['Biography', ' Drama', ' Family']",2009,93.0,8.1,['Lasse Hallström'],"['Richard Gere', ' Joan Allen', ' Cary-Hiroyuki Tagawa', ' Sarah Roemer']",258654.0,138433435.0
+193,194,Mary et Max.,"['Animation', ' Comedy', ' Drama']",2009,92.0,8.1,['Adam Elliot'],"['Toni Collette', ' Philip Seymour Hoffman', ' Eric Bana', ' Barry Humphries']",166680.0,67436818.0
+194,195,Dragons,"['Animation', ' Action', ' Adventure']",2010,98.0,8.1,"['Dean DeBlois', 'Chris Sanders']","['Jay Baruchel', ' Gerard Butler', ' Christopher Mintz-Plasse', ' Craig Ferguson']",676858.0,217581231.0
+195,196,Into the Wild,"['Adventure', ' Biography', ' Drama']",2007,148.0,8.1,['Sean Penn'],"['Emile Hirsch', ' Vince Vaughn', ' Catherine Keener', ' Marcia Gay Harden']",582142.0,18354356.0
+196,197,No Country for Old Men,"['Crime', ' Drama', ' Thriller']",2007,122.0,8.1,"['Ethan Coen', 'Joel Coen']","['Tommy Lee Jones', ' Javier Bardem', ' Josh Brolin', ' Woody Harrelson']",873801.0,74283625.0
+197,198,Rang De Basanti,"['Comedy', ' Crime', ' Drama']",2006,167.0,8.1,['Rakeysh Omprakash Mehra'],"['Aamir Khan', ' Soha Ali Khan', ' Siddharth', ' Sharman Joshi']",113601.0,2197331.0
+198,199,Million Dollar Baby,"['Drama', ' Sport']",2004,132.0,8.1,['Clint Eastwood'],"['Hilary Swank', ' Clint Eastwood', ' Morgan Freeman', ' Jay Baruchel']",644360.0,100492203.0
+199,200,Hôtel Rwanda,"['Biography', ' Drama', ' History']",2004,121.0,8.1,['Terry George'],"['Don Cheadle', ' Sophie Okonedo', ' Joaquin Phoenix', ' Xolani Mali']",337887.0,23530892.0
+200,201,Before Sunset,"['Drama', ' Romance']",2004,80.0,8.1,['Richard Linklater'],"['Ethan Hawke', ' Julie Delpy', ' Vernon Dobtcheff', ' Louise Lemoine Torrès']",240875.0,5820649.0
+201,202,Memories of Murder,"['Crime', ' Drama', ' Mystery']",2003,131.0,8.1,['Bong Joon Ho'],"['Kang-ho Song', ' Kim Sang-kyung', ' Roe-ha Kim', ' Jae-ho Song']",146433.0,14131.0
+202,203,Kill Bill: Volume I,"['Action', ' Crime', ' Drama']",2003,111.0,8.1,['Quentin Tarantino'],"['Uma Thurman', ' David Carradine', ' Daryl Hannah', ' Michael Madsen']",1016060.0,70099045.0
+203,204,Le Monde de Nemo,"['Animation', ' Adventure', ' Comedy']",2003,100.0,8.1,"['Andrew Stanton', 'Lee Unkrich']","['Albert Brooks', ' Ellen DeGeneres', ' Alexander Gould', ' Willem Dafoe']",962407.0,380843261.0
+204,205,Arrête-moi si tu peux,"['Biography', ' Crime', ' Drama']",2002,141.0,8.1,['Steven Spielberg'],"['Leonardo DiCaprio', ' Tom Hanks', ' Christopher Walken', ' Martin Sheen']",852601.0,164615351.0
+205,206,Amours chiennes,"['Drama', ' Thriller']",2000,154.0,8.1,['Alejandro G. Iñárritu'],"['Emilio Echevarría', ' Gael García Bernal', ' Goya Toledo', ' Álvaro Guerrero']",226615.0,5383834.0
+206,207,Monstres & Cie,"['Animation', ' Adventure', ' Comedy']",2001,92.0,8.1,"['Pete Docter', 'David Silverman', 'Lee Unkrich']","['Billy Crystal', ' John Goodman', ' Mary Gibbs', ' Steve Buscemi']",828172.0,289916256.0
+207,208,Neon Genesis Evangelion: The End of Evangelion,"['Animation', ' Action', ' Drama']",1997,87.0,8.1,"['Hideaki Anno', 'Kazuya Tsurumaki']","['Megumi Ogata', ' Megumi Hayashibara', ' Yûko Miyamura', ' Kotono Mitsuishi']",41251.0,12100000.0
+208,209,Sixième sens,"['Drama', ' Mystery', ' Thriller']",1999,107.0,8.1,['M. Night Shyamalan'],"['Bruce Willis', ' Haley Joel Osment', ' Toni Collette', ' Olivia Williams']",921947.0,293506292.0
+209,210,The Truman Show,"['Comedy', ' Drama']",1998,103.0,8.1,['Peter Weir'],"['Jim Carrey', ' Ed Harris', ' Laura Linney', ' Noah Emmerich']",958864.0,125618201.0
+210,211,The Big Lebowski,"['Comedy', ' Crime', ' Sport']",1998,117.0,8.1,"['Joel Coen', 'Ethan Coen']","['Jeff Bridges', ' John Goodman', ' Julianne Moore', ' Steve Buscemi']",743472.0,17498804.0
+211,212,In the Mood for Love,"['Drama', ' Romance']",2000,98.0,8.1,['Kar-Wai Wong'],"['Tony Chiu-Wai Leung', ' Maggie Cheung', ' Ping Lam Siu', ' ""Tung Cho Joe Cheung""']",129136.0,2734044.0
+212,213,Trainspotting,['Drama'],1996,93.0,8.1,['Danny Boyle'],"['Ewan McGregor', ' Ewen Bremner', ' Jonny Lee Miller', ' Kevin McKidd']",642260.0,16501785.0
+213,214,Fargo,"['Crime', ' Drama', ' Thriller']",1996,98.0,8.1,"['Joel Coen', 'Ethan Coen']","['William H. Macy', ' Frances McDormand', ' Steve Buscemi', ' Peter Stormare']",627291.0,24611975.0
+214,215,La Haine,"['Crime', ' Drama']",1995,98.0,8.1,['Mathieu Kassovitz'],"['Vincent Cassel', ' Hubert Koundé', ' Saïd Taghmaoui', ' Abdel Ahmed Ghili']",154239.0,309811.0
+215,216,Before Sunrise,"['Drama', ' Romance']",1995,101.0,8.1,['Richard Linklater'],"['Ethan Hawke', ' Julie Delpy', ' Andrea Eckert', ' Hanno Pöschl']",277995.0,5535405.0
+216,217,Trois couleurs: Rouge,"['Drama', ' Mystery', ' Romance']",1994,99.0,8.1,['Krzysztof Kieslowski'],"['Irène Jacob', ' Jean-Louis Trintignant', ' Frédérique Feder', ' Jean-Pierre Lorit']",92776.0,4043686.0
+217,218,Jurassic Park,"['Action', ' Adventure', ' Sci-Fi']",1993,127.0,8.1,['Steven Spielberg'],"['Sam Neill', ' Laura Dern', ' Jeff Goldblum', ' Richard Attenborough']",881976.0,402453882.0
+218,219,Au nom du père,"['Biography', ' Crime', ' Drama']",1993,133.0,8.1,['Jim Sheridan'],"['Daniel Day-Lewis', ' Pete Postlethwaite', ' Alison Crosbie', ' Philip King']",160774.0,25010410.0
+219,220,Le Cercle des poètes disparus,"['Comedy', ' Drama']",1989,128.0,8.1,['Peter Weir'],"['Robin Williams', ' Robert Sean Leonard', ' Ethan Hawke', ' Josh Charles']",435474.0,95860116.0
+220,221,Stand by me - Compte sur moi,"['Adventure', ' Drama']",1986,89.0,8.1,['Rob Reiner'],"['Wil Wheaton', ' River Phoenix', ' Corey Feldman', ' ""Jerry OConnell""']",368531.0,52287414.0
+221,222,Platoon,"['Drama', ' War']",1986,120.0,8.1,['Oliver Stone'],"['Charlie Sheen', ' Tom Berenger', ' Willem Dafoe', ' Keith David']",386490.0,138530565.0
+222,223,"Paris, Texas",['Drama'],1984,145.0,8.1,['Wim Wenders'],"['Harry Dean Stanton', ' Nastassja Kinski', ' Dean Stockwell', ' Sam Berry']",94477.0,2181987.0
+223,224,Nausicaä de la vallée du vent,"['Animation', ' Adventure', ' Fantasy']",1984,117.0,8.1,['Hayao Miyazaki'],"['Sumi Shimamoto', ' Mahito Tsujimura', ' Hisako Kyôda', ' Gorô Naya']",154488.0,495770.0
+224,225,The Thing,"['Horror', ' Mystery', ' Sci-Fi']",1982,109.0,8.1,['John Carpenter'],"['Kurt Russell', ' Wilford Brimley', ' Keith David', ' Richard Masur']",377400.0,13782838.0
+225,226,Blade Runner,"['Action', ' Sci-Fi', ' Thriller']",1982,117.0,8.1,['Ridley Scott'],"['Harrison Ford', ' Rutger Hauer', ' Sean Young', ' Edward James Olmos']",703634.0,32868943.0
+226,227,Elephant Man,"['Biography', ' Drama']",1980,124.0,8.1,['David Lynch'],"['Anthony Hopkins', ' John Hurt', ' Anne Bancroft', ' John Gielgud']",223667.0,226277068.0
+227,228,Monty Python : La Vie de Brian,['Comedy'],1979,94.0,8.1,['Terry Jones'],"['Graham Chapman', ' John Cleese', ' Michael Palin', ' Terry Gilliam']",372490.0,20045115.0
+228,229,Voyage au bout de l'enfer,"['Drama', ' War']",1978,183.0,8.1,['Michael Cimino'],"['Robert De Niro', ' Christopher Walken', ' John Cazale', ' John Savage']",316028.0,48979328.0
+229,230,Rocky,"['Drama', ' Sport']",1976,120.0,8.1,['John G. Avildsen'],"['Sylvester Stallone', ' Talia Shire', ' Burt Young', ' Carl Weathers']",526838.0,117235247.0
+230,231,Network - Main basse sur la TV,['Drama'],1976,121.0,8.1,['Sidney Lumet'],"['Faye Dunaway', ' William Holden', ' Peter Finch', ' Robert Duvall']",147130.0,59100318.0
+231,232,Barry Lyndon,"['Adventure', ' Drama', ' History']",1975,185.0,8.1,['Stanley Kubrick'],"['""Ryan ONeal""', ' Marisa Berenson', ' Patrick Magee', ' Hardy Krüger']",152942.0,167767189.0
+232,233,Chinatown,"['Drama', ' Mystery', ' Thriller']",1974,130.0,8.1,['Roman Polanski'],"['Jack Nicholson', ' Faye Dunaway', ' John Huston', ' Perry Lopez']",299513.0,8486653.0
+233,234,Luke la main froide,"['Crime', ' Drama']",1967,127.0,8.1,['Stuart Rosenberg'],"['Paul Newman', ' George Kennedy', ' Strother Martin', ' J.D. Cannon']",164403.0,16217773.0
+234,235,Persona,"['Drama', ' Thriller']",1966,85.0,8.1,['Ingmar Bergman'],"['Bibi Andersson', ' Liv Ullmann', ' Margaretha Krook', ' Gunnar Björnstrand']",106077.0,56671993.0
+235,236,Andreï Roublev,"['Biography', ' Drama', ' History']",1966,205.0,8.1,['Andrei Tarkovsky'],"['Anatoliy Solonitsyn', ' Ivan Lapikov', ' Nikolay Grinko', ' Nikolay Sergeev']",48351.0,102021.0
+236,237,La bataille d'Alger,"['Drama', ' War']",1966,121.0,8.1,['Gillo Pontecorvo'],"['Brahim Hadjadj', ' Jean Martin', ' Yacef Saadi', ' Samia Kerbash']",54325.0,55908.0
+237,238,Les quatre cents coups,"['Crime', ' Drama']",1959,99.0,8.1,['François Truffaut'],"['Jean-Pierre Léaud', ' Albert Rémy', ' Claire Maurier', ' Guy Decomble']",107627.0,45055776.0
+238,239,Ben-Hur,"['Adventure', ' Drama', ' History']",1959,212.0,8.1,['William Wyler'],"['Charlton Heston', ' Jack Hawkins', ' Stephen Boyd', ' Haya Harareet']",222551.0,74700000.0
+239,240,Le pont de la rivière Kwaï,"['Adventure', ' Drama', ' War']",1957,161.0,8.1,['David Lean'],"['William Holden', ' Alec Guinness', ' Jack Hawkins', ' Sessue Hayakawa']",206283.0,44908000.0
+240,241,Du rififi chez les hommes,"['Crime', ' Drama', ' Thriller']",1955,118.0,8.1,['Jules Dassin'],"['Jean Servais', ' Carl Möhner', ' Robert Manuel', ' Janine Darcey']",30290.0,57226.0
+241,242,Sur les quais...,"['Crime', ' Drama', ' Thriller']",1954,108.0,8.1,['Elia Kazan'],"['Marlon Brando', ' Karl Malden', ' Lee J. Cobb', ' Rod Steiger']",144268.0,9600000.0
+242,243,Le salaire de la peur,"['Adventure', ' Drama', ' Thriller']",1953,156.0,8.1,['Henri-Georges Clouzot'],"['Yves Montand', ' Charles Vanel', ' Peter van Eyck', ' Folco Lulli']",55736.0,138433435.0
+243,244,Le troisième homme,"['Film-Noir', ' Mystery', ' Thriller']",1949,104.0,8.1,['Carol Reed'],"['Orson Welles', ' Joseph Cotten', ' Alida Valli', ' Trevor Howard']",161121.0,449191.0
+244,245,Rebecca,"['Drama', ' Mystery', ' Romance']",1940,130.0,8.1,['Alfred Hitchcock'],"['Laurence Olivier', ' Joan Fontaine', ' George Sanders', ' Judith Anderson']",126065.0,4360000.0
+245,246,Mr. Smith au sénat,"['Comedy', ' Drama']",1939,129.0,8.1,['Frank Capra'],"['James Stewart', ' Jean Arthur', ' Claude Rains', ' Edward Arnold']",108451.0,9600000.0
+246,247,Autant en emporte le vent,"['Drama', ' History', ' Romance']",1939,238.0,8.1,"['Victor Fleming', 'George Cukor', 'Sam Wood']","['Clark Gable', ' Vivien Leigh', ' Thomas Mitchell', ' ""Barbara ONeil""']",293981.0,198676459.0
+247,248,New York - Miami,"['Comedy', ' Romance']",1934,105.0,8.1,['Frank Capra'],"['Clark Gable', ' Claudette Colbert', ' Walter Connolly', ' Roscoe Karns']",95754.0,4360000.0
+248,249,La passion de Jeanne d'Arc,"['Biography', ' Drama', ' History']",1928,110.0,8.1,['Carl Theodor Dreyer'],"['Maria Falconetti', ' Eugene Silvain', ' André Berley', ' Maurice Schutz']",48981.0,21877.0
+249,250,Le mécano de la Générale,"['Action', ' Adventure', ' Comedy']",1926,67.0,8.1,"['Clyde Bruckman', 'Buster Keaton']","['Buster Keaton', ' Marion Mack', ' Glen Cavender', ' Jim Farley']",82570.0,1033895.0
