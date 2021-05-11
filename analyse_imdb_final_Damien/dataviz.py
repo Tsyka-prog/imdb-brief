@@ -15,13 +15,13 @@ def matrix_correlation(imdb):
     cmap = sns.diverging_palette(220, 20, as_cmap=True)
     # Dessin de la heatmap avec ses options
     plt.figure(figsize=(8,6))
-    sns.heatmap(corr, mask=mask, cmap=cmap, vmin=-1, vmax=1, square=True, cbar_kws={"shrink": .75}, annot=True).set_title('Map de corrélation', size=15)
+    sns.heatmap(corr, mask=mask, cmap=cmap, vmin=-1, vmax=1, square=True, cbar_kws={"shrink": .75}, annot=True).set_title('Matrice de corrélation', size=15)
     
     
 # Regplot montrant la corrélation entre les votes et les notes
 def regplot_votes_rating(imdb):
     plt.figure(figsize=(8,6))
-    sns.regplot(data=imdb, x="rating", y="votes");
+    sns.regplot(data=imdb, x="rating", y="votes").set_title('Droite de régression des votes par rapport aux notes')
 
 
 # Barplot du nb de films dans le top 250 en fonction de la décennie
@@ -37,7 +37,7 @@ def barplot_gross_rating(imdb):
     sns.barplot(data=imdb, x='rating', y='gross', capsize=.2).set_title('Moyenne des recettes par rapport à la note', size=15)
     
 
-# Utilisation de la fonction MultiLabaleBinarizer() - SkLearn - afin de récupérer chaque élément de la liste se trouvant dans la série "type"
+# Utilisation de la fonction MultiLabaleBinarizer() - SkLearn - afin de transformer chaque élément de la liste se trouvant dans la série "type" en binaire (équivalent get_dummies() de pandas mais pour une liste)
 def types_movies(imdb):
     type_mlb = imdb['type']
     mlb = MultiLabelBinarizer()

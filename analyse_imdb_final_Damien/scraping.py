@@ -2,16 +2,16 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# Function to browse all pages to scrape
+# Fonctin pour parcourir toutes les pages à scraper
 def get_pages(url):
     pages = []
     for i in range(1, 250, 50):
-        next_url = url + str(i) + '&ref_=adv_nxt'
+        next_url = f'https://www.imdb.com/search/title/?groups=top_250&sort=user_rating,desc&start={i}&ref_=adv_nxt'
         pages.append(next_url)
     return pages
 
 
-# Function to scrape and create the dataframe
+# Fonction pour scraper, créer le dataframe final et l'importer en .csv et .pkl
 def movies_scrap (pages) :
     movies_df = pd.DataFrame(columns=['ranking', 'title', 'year', 'type', 'rating', 'runtime', 'directors', 'stars', 'votes','gross'])
     final_df = pd.DataFrame(columns=['ranking', 'title', 'year', 'type', 'rating', 'runtime', 'directors', 'stars', 'votes','gross'])

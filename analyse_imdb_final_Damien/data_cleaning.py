@@ -1,11 +1,3 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import squarify
-from pandas_profiling import ProfileReport
-from sklearn.preprocessing import MultiLabelBinarizer
-
 # Ajout au df principal d'une série regroupant les années en décennies
 def decade(year):
     if year <= 1930:
