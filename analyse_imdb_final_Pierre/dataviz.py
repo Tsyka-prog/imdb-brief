@@ -62,3 +62,13 @@ def corr_matrice(final_df):
             xticklabels=corr.columns,
             yticklabels=corr.columns, annot=True, mask=mask ))
 
+def votes_vs_Rating(final_df):
+    plt.figure(figsize=(12,8))
+    plt.title('Evolution des notes vs rating')
+    result=sns.regplot(data=final_df,x='Votes',y='Rating');
+    return(result)
+
+def decades_movies(total_by_decades):
+    plt.title('Nomre de films par décénie')
+    result=sns.barplot(data=total_by_decades,y='Decenie',x='Number_of_movies');
+    return(result)

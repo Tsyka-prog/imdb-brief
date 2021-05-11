@@ -25,9 +25,9 @@ def regroup_by_decade(final_df):
                                     (1950, 1960), (1960, 1970), (1970, 1980),
                                     (1980, 1990), (1990, 2000), (2000, 2010), (2010, 2020)])
 
-    final_df[['Decenie']] = pd.cut(np.array(final_df['Year']), bins,)
+    final_df[['Decenie']] = pd.cut(np.array(final_df['Year']), bins)
     #final_df[['Decenie']] = pd.cut(np.array(final_df['Year']),11,labels=[1920,1930,1940,1950,1960,1970,1980,1990,2000,2010,2020])
     #aggregate groupby on decades
     total_by_decades = final_df.groupby(by=['Decenie'], as_index=False).agg({'Title':'count','Votes':'mean','Rating':'mean'})
-    total_by_decades=total_by_decades.rename(columns={'Title': "Number_of_movies", 'Votes': "Average_nb_of_votes", 'Rating':"Average_ratings"})
+    total_by_decades=total_by_decades.rename(columns={'Title': "Number_of_movies", 'Votes': "Average_nb_of_votes", 'Rating':"Average_ratings"}).round(decimals=2)
     return(total_by_decades)
